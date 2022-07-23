@@ -15,6 +15,7 @@
 <br>
 
 搭配GitHub acitons 更新参考 https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md  
+waka https://github.com/anmol098/waka-readme-stats  
 
 <!-- 个人资料徽标 -->
 <div align="center">
