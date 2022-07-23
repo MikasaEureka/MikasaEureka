@@ -12,10 +12,7 @@
   <!-- 贪吃蛇代码贡献图 -->
   <img width="60%" src="contribution-snake/github-contribution-grid-snake.svg" /></div>
 </div>
-<br>
-
-搭配GitHub acitons 更新参考 https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md  
-waka https://github.com/anmol098/waka-readme-stats  
+<br>  
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -35,6 +32,13 @@ waka https://github.com/anmol098/waka-readme-stats
 <p>✍️&nbsp;&nbsp;大家好，我是MikasaEureka <s>叫我M神我也能接着</s> ! 目前就读于？？，热爱前沿科技，励志成为<b>世界首富</b>!</p>
 <p>&emsp;&emsp;I... a universe of atoms, an atom in the universe.</p>
 <p>&emsp;&emsp;I would rather have questions that can't be answered than answers that can't be questioned. I have no responsibility to be like they expect me to be. We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress.</p>
+
+
+搭配GitHub acitons 更新参考 https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md  
+waka https://github.com/anmol098/waka-readme-stats  
+https://github.com/yoshi389111/github-profile-3d-contrib  
+https://github.com/Platane/snk
+
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
@@ -89,9 +93,9 @@ waka https://github.com/anmol098/waka-readme-stats
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img width="150" src="image/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MikasaEureka&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+  <img width="150" src="image/202108300312623.png" />
 </div>
 <br>
 
@@ -122,11 +126,20 @@ waka https://github.com/anmol098/waka-readme-stats
   <img width="80%" src="image/202110311924844.png" />
 </div>
 
-<!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">  
+<!-- profile-3d-contrib -->
+<div align="center" >
+  <img width="45%" src="profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+  <img src="base_metrics.svg" width="45%"/>
+  <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=MikasaEureka&theme=xcode&bg_color=FF000000&hide_border=true" />
+</div>
 
+# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+
+<div align="top">
+<!-- wakatime 统计 -->
+<table align="right" >
+<tr>
+<td valign="top" style="width: 50%;">  
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -170,41 +183,14 @@ No Activity Tracked This Week
 
  Last Updated on 23/07/2022 15:46:10 UTC
 <!--END_SECTION:waka-->
-
-<!-- 有待生成
-<!-- 1.profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-  
-<!-- 2.最近博客和豆瓣动态 -->
-<table align="center">
-<tr>
-<td valign="top">    
-
-### 🤹‍♀️ <a href="https://sunguoqi.com/" target="_blank">Recent Blog</a>
-  
-<!-- START_SECTION:blog -->
-* <a href='https://sunguoqi.com/posts/20220225.html' target='_blank'>人生21岁，版本更新日志！</a> - 2022-02-25
-* <a href='https://sunguoqi.com/posts/fiddler.html' target='_blank'>我终于学废用Fiddler抓包了！</a> - 2022-01-24
-* <a href='https://sunguoqi.com/posts/4243.html' target='_blank'>零基础快速上手云服务器</a> - 2022-01-09
-* <a href='https://sunguoqi.com/posts/33414.html' target='_blank'>给GitHub首页添加一个有趣的贪吃蛇小动画</a> - 2022-01-08
-* <a href='https://sunguoqi.com/posts/cuiqingcai.html' target='_blank'>21年终总结&&关于我自学爬虫的点滴经历</a> - 2021-12-31
-<!-- END_SECTION:blog -->
-  
 </td>
-    
-<td valign="top">
-  
-### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35681856/' target='_blank'>读过Python3网络爬虫开发实战 第2版</a> - 2021-12-31
-* <a href='https://book.douban.com/subject/6082808/' target='_blank'>想读百年孤独</a> - 2021-11-28
-* <a href='https://music.douban.com/subject/35624611/' target='_blank'>想听光亮</a> - 2021-11-12
-* <a href='https://book.douban.com/subject/35582002/' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
-* <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
-<!-- END_SECTION:douban -->
-  
-</td> 
 </tr>
 </table>
--->
+
+
+<!-- plugin metrics -->
+<div align="left">
+  <img src="plugin_metrics.svg" alt="plugin metrics" width="45%"/>
+</div>
+
+</div>
