@@ -1,6 +1,7 @@
 lan_badge_zone{
   display:grid;
   grid-template:150px/1fr 60% 1fr;
+  align:center;
 }
 lan_badge{
   display: flex;
