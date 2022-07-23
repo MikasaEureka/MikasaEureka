@@ -4,7 +4,7 @@ lan_badge_zone{
 }
 lan_badge{
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: column wrap;
   justify-content: flex-start;
 }
 lan_badge_img{
