@@ -14,6 +14,8 @@
 </div>
 <br>
 
+搭配GitHub acitons 更新参考 https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md  
+
 <!-- 个人资料徽标 -->
 <div align="center">
   <h1> 😶‍🌫️
