@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://MikasaEureka.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20ฅʕ•̫͡•ʔฅ!%22);每天都要快乐🦆!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20ฅʕ•̫͡•ʔฅ!%22);每天都要快乐🦆;Make%20World%20Great%20Again👆&center=true&size=27">
   </a>
 </h1>
 
@@ -34,6 +34,7 @@
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="css">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" title="vscode">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50" title="python">
+  <div align="center"><img width="60%" src="image/202110311924844.png" /></div>
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" title="javascript">
   <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="50" title="sublime">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" title="github">
@@ -46,11 +47,14 @@
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/MikasaEureka/Msg-Bots">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=MikasaEureka&repo=Msg-Bots&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/MikasaEureka/L0CV-web">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=MikasaEureka&repo=L0CV-web&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/MikasaEureka/keepalive-workflow">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=MikasaEureka&repo=keepalive-workflow&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
+
 
 💪 正在学习: 
 
@@ -89,13 +93,6 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
-
-<!-- just img -->
-<div align="center"><img  src="image/202110311924844.png" /></div>
-
-<!-- profile-3d-contrib 有待生成
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
--->
 
 # 🚀 Actions
 
@@ -210,65 +207,7 @@ Windows                  16 hrs 28 mins      ███████████�
 
 
  Last Updated on 23/07/2022 02:10:46 UTC
-<!--END_SECTION:waka-->
-</td>
-</tr>
-</table>
-
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/>
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
-    </td>
-  </tr>
-</table>
-
-<!-- Dynamic Heatmap -->
-<table>
-  <tr>
-    <td colspan="2" >
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Running/assets/github.svg" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/github.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/wakatime.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/bilibili.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/shanbay.svg" />
-    </td>
-  </tr>
-</table>
 
 
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-
-<!-- just img -->
-<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
-
-<!-- plugin metrics -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
-</div>
+<!-- profile-3d-contrib 有待生成-->
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
