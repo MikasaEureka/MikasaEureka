@@ -12,10 +12,10 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: sun0225SUN/social-readme@master
+      - uses: MikasaEureka/social-readme@master
         with:
           blog_rss_link: https://sunguoqi.com/atom.xml     #your blog rss link
           blog_limit: 5 # blog数量
-          douban_name: sun0225SUN    
+          douban_name: MikasaEureka    
           douban_limit: 5 # 豆瓣最新动态数量
           commit_message: Updated social rss by social-readme # commit说明
