@@ -29,23 +29,6 @@
   </h1>
 </div>
 
-<!-- Gif -->
-<div class="lan_badge_zone" display="grid" grid-template="150px/1fr 60% 1fr" align="center">
-  <div class="lan_badge">
-    <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
-    <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="css">
-    <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" title="vscode">
-    <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50" title="python">
-  </div>
-  <img class="lan_badge_img" width="60%" src="image/202110311924844.png" />
-  <div class="lan_badge">
-    <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" title="javascript">
-    <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="50" title="sublime">
-    <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" title="github">
-    <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" title="node">
-  </div class="lan_badge_zone">
-</div>
-
 <p>✍️&nbsp;&nbsp;大家好，我是MikasaEureka <s>叫我M神我也能接着</s> ! 目前就读于？？，热爱前沿科技，励志成为<b>世界首富</b>!</p>
 <p>&emsp;&emsp;I... a universe of atoms, an atom in the universe.</p>
 <p>&emsp;&emsp;I would rather have questions that can't be answered than answers that can't be questioned. I have no responsibility to be like they expect me to be. We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress.</p>
@@ -122,6 +105,19 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikasaEureka&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
+
+<!-- Gif -->
+<div align="center">
+  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
+  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="css">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" title="vscode">
+  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50" title="python">
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" title="javascript">
+  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="50" title="sublime">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" title="github">
+  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" title="node">
+  <img width="80%" src="image/202110311924844.png" />
+</div>
 
 <!-- wakatime 统计 -->
 <table align="center">
