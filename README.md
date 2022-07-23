@@ -1,6 +1,4 @@
-<head>
-  <link href="Readme.css" type="text/css" rel="stylesheet" />
-</head>
+<link rel="stylesheet" type="text/css" href="Readme.css">
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://MikasaEureka.github.io/">
