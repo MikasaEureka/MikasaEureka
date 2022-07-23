@@ -31,14 +31,15 @@
 
 <p>✍️&nbsp;&nbsp;大家好，我是MikasaEureka <s>叫我M神我也能接着</s> ! 目前就读于？？，热爱前沿科技，励志成为<b>世界首富</b>!</p>
 <p>&emsp;&emsp;I... a universe of atoms, an atom in the universe.</p>
-<p>&emsp;&emsp;I would rather have questions that can't be answered than answers that can't be questioned. I have no responsibility to be like they expect me to be. We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress.</p>
+<p>&emsp;&emsp;I would rather have questions that can't be answered than answers that can't be questioned. I have no responsibility to be like they expect me to be. We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress.</p>  
 
+----
 
-搭配GitHub acitons 更新参考 https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md  
+> 搭配GitHub acitons 更新参考 https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md  
 waka https://github.com/anmol098/waka-readme-stats  
 https://github.com/yoshi389111/github-profile-3d-contrib  
-https://github.com/Platane/snk
-
+https://github.com/Platane/snk  
+----
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
@@ -113,6 +114,77 @@ https://github.com/Platane/snk
 </div>
 <br>
 
+
+<!-- profile-3d-contrib -->
+<div align="center" >
+  <img width="45%" src="profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+  <img src="base_metrics.svg" width="45%"/>
+  <!--img width="50%" src="https://activity-graph.herokuapp.com/graph?username=MikasaEureka&theme=xcode&bg_color=FF000000&hide_border=true" /-->
+</div>
+
+# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+
+<div align="top">
+  <!-- wakatime 统计 -->
+
+  <table align="right" width="20%">
+  <tr>
+  <td>
+        
+  <!--START_SECTION:waka-->
+  **I'm a Night 🦉** 
+    
+  ```text
+    🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82% 
+    🌆 Daytime    48 commits     █████████░░░░░░░░░░░░░░░░   39.34% 
+    🌃 Evening    70 commits     ██████████████░░░░░░░░░░░   57.38% 
+    🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46%
+
+  ```
+  📅 **I'm Most Productive on Saturday** 
+
+  ```text
+    Monday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
+    Tuesday      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
+    Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+    Thursday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
+    Friday       46 commits     █████████░░░░░░░░░░░░░░░░   37.7% 
+    Saturday     53 commits     ██████████░░░░░░░░░░░░░░░   43.44% 
+    Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
+
+  ```
+
+
+  📊 **This Week I Spent My Time On** 
+
+  ```text
+    ⌚︎ Time Zone: Asia/Shanghai
+
+    💬 Programming Languages: 
+    No Activity Tracked This Week
+
+    🔥 Editors: 
+    No Activity Tracked This Week
+
+    💻 Operating System: 
+    No Activity Tracked This Week
+
+  ```
+
+
+   Last Updated on 23/07/2022 15:46:10 UTC
+  <!--END_SECTION:waka-->
+  </td>
+  </tr>
+  </table>
+  
+  <!-- plugin metrics -->
+  <div align="left">
+    <img src="plugin_metrics.svg" alt="plugin metrics" width="30%"/>
+  </div>
+  
+</div>
+
 <!-- Gif -->
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
@@ -124,73 +196,4 @@ https://github.com/Platane/snk
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" title="node">
   <img width="80%" src="image/202110311924844.png" />
-</div>
-
-<!-- profile-3d-contrib -->
-<div align="center" >
-  <img width="45%" src="profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-  <img src="base_metrics.svg" width="45%"/>
-  <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=MikasaEureka&theme=xcode&bg_color=FF000000&hide_border=true" />
-</div>
-
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-
-<div align="top">
-<!-- wakatime 统计 -->
-<table align="right" >
-<tr>
-<td valign="top" style="width: 50%;">  
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82% 
-🌆 Daytime    48 commits     █████████░░░░░░░░░░░░░░░░   39.34% 
-🌃 Evening    70 commits     ██████████████░░░░░░░░░░░   57.38% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
-Tuesday      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
-Friday       46 commits     █████████░░░░░░░░░░░░░░░░   37.7% 
-Saturday     53 commits     ██████████░░░░░░░░░░░░░░░   43.44% 
-Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 23/07/2022 15:46:10 UTC
-<!--END_SECTION:waka-->
-</td>
-</tr>
-</table>
-
-
-<!-- plugin metrics -->
-<div align="left">
-  <img src="plugin_metrics.svg" alt="plugin metrics" width="45%"/>
-</div>
-
 </div>
