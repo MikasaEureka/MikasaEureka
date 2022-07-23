@@ -32,7 +32,7 @@
 </div>
 
 <!-- Gif -->
-<div class="lan_badge_zone">
+<div class="lan_badge_zone" display="grid" grid-template="150px/1fr 60% 1fr" align="center">
   <div class="lan_badge">
     <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
     <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="css">
