@@ -1,6 +1,6 @@
 # 具体配置文档地址 https://github.com/lowlighter/metrics/blob/master/action.yml
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-
+# https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
 name: GitHub metrics
 on:
   schedule: 
