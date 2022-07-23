@@ -29,16 +29,16 @@
 </div>
 
 <!-- Gif -->
-<div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="css">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" title="vscode">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50" title="python">
+<div align="center" display="grid" grid-template="1FR 1FR/1FR 1FR 3FR 1FR 1FR">
+  <img grid-row="1" grid-column="1" alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
+  <img grid-row="2" grid-column="1" alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="css">
+  <img grid-row="1" grid-column="2" alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" title="vscode">
+  <img grid-row="2" grid-column="2" alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50" title="python">
   <div align="center"><img width="60%" src="image/202110311924844.png" /></div>
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" title="javascript">
-  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="50" title="sublime">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" title="github">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" title="node">
+  <img grid-row="1" grid-column="4" alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" title="javascript">
+  <img grid-row="2" grid-column="4" alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="50" title="sublime">
+  <img grid-row="1" grid-column="5" alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" title="github">
+  <img grid-row="2" grid-column="5" alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" title="node">
 </div>
 
 <p>✍️&nbsp;&nbsp;大家好，我是MikasaEureka <s>叫我M神我也能接着</s> ! 目前就读于？？，热爱前沿科技，励志成为<b>世界首富</b>!</p>
