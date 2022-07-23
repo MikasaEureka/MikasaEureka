@@ -1,13 +1,13 @@
-.lan_badge_zone{
+lan_badge_zone{
   display:grid;
   grid-template:150px/1fr 60% 1fr;
   align:center;
 }
-.lan_badge{
+lan_badge{
   display: flex;
   flex-flow: column wrap;
   justify-content: flex-start;
 }
-.lan_badge_img{
+lan_badge_img{
   grid-area:1/2/2/3;
 }
