@@ -37,7 +37,7 @@
   <img class="lan_badge" alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="css">
   <img class="lan_badge" alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" title="vscode">
   <img class="lan_badge" alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50" title="python">
-  <div class="lan_badge_img" align="center"><img width="60%" src="image/202110311924844.png" /></div>
+  <img class="lan_badge_img" width="60%" src="image/202110311924844.png" />
   <img class="lan_badge" alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" title="javascript">
   <img class="lan_badge" alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="50" title="sublime">
   <img class="lan_badge" alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" title="github">
