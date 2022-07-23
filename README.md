@@ -126,7 +126,7 @@ waka https://github.com/anmol098/waka-readme-stats
 <table align="center">
 <tr>
 <td valign="top">  
-  
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -173,6 +173,7 @@ Windows                  16 hrs 28 mins      ███████████�
 
 
  Last Updated on 23/07/2022 02:10:46 UTC
+<!--END_SECTION:waka-->
 
 <!-- 有待生成
 <!-- 1.profile-3d-contrib -->
