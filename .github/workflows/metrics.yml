@@ -47,18 +47,18 @@ jobs:
           plugin_achievements_threshold: C
           
           # 📰 Recent activity 最近活动
-          plugin_activity: no
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 3
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+#          plugin_activity: no
+#          plugin_activity_days: 14
+#          plugin_activity_filter: all
+#          plugin_activity_limit: 3
+#          plugin_activity_load: 300
+#          plugin_activity_visibility: all
           
           # 🎟️ Follow-up of issues and pull requests
-          plugin_followup: no
+          plugin_followup: yes
           plugin_followup_sections: repositories
-          plugin_introduction: no
-          plugin_introduction_title: no
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           
           # 📅 Isometric commit calendar 日历图
           plugin_isocalendar: yes
@@ -92,21 +92,21 @@ jobs:
           plugin_habits_trim: yes                                   # Trim unused hours on daily chart
           
           # 🧑‍🤝‍🧑 People plugin 关注与被关注
-          plugin_people: no
-          plugin_people_types: followers, following                 # Display followers and "thanks" sections
-          plugin_people_limit: 150                                   # Limit to 28 entries per section
-          plugin_people_size: 36                                    # Size in pixels of displayed avatars
-          plugin_people_identicons: no                              # Use avatars (do not use identicons)
-          plugin_people_thanks: octocat                             # Users that will be displayed in "thanks" section
-          plugin_people_sponsors_custom: octocat                    # Users that will be displayed additionally in "sponsors" section
-          plugin_people_shuffle: yes                                # Shuffle for varied output
+#          plugin_people: no
+#          plugin_people_types: followers, following                 # Display followers and "thanks" sections
+#          plugin_people_limit: 150                                   # Limit to 28 entries per section
+#          plugin_people_size: 36                                    # Size in pixels of displayed avatars
+#          plugin_people_identicons: no                              # Use avatars (do not use identicons)
+#          plugin_people_thanks: octocat                             # Users that will be displayed in "thanks" section
+#          plugin_people_sponsors_custom: octocat                    # Users that will be displayed additionally in "sponsors" section
+#          plugin_people_shuffle: yes                                # Shuffle for varied output
           
           # 🗂️ Active projects 我的工程
           plugin_projects: yes
           plugin_projects_limit: 5
          
          # 🌟 Recently starred repositories
-          plugin_stars: no
+          plugin_stars: yes
           plugin_stars_limit: 5   # Limit to 5 entries
          
          # 🎭 Comment reactions (评论反馈)
