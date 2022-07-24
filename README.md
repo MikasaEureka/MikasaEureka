@@ -35,10 +35,9 @@
 
 ----
 
-> 搭配GitHub acitons 更新参考 https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md  
-waka https://github.com/anmol098/waka-readme-stats  
+> 搭配GitHub acitons更新参考   
 https://github.com/yoshi389111/github-profile-3d-contrib  
-https://github.com/Platane/snk  
+https://github.com/Platane/snk 
 ----
 
 <!-- 比较好的开源项目卡片 -->
@@ -104,13 +103,13 @@ https://github.com/Platane/snk
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=MikasaEureka&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MikasaEureka&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
 
 <!-- GitHub数据统计 -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MikasaEureka&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikasaEureka&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<div align="left">
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=MikasaEureka&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikasaEureka&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
 
@@ -122,19 +121,15 @@ https://github.com/Platane/snk
   <!--img width="50%" src="https://activity-graph.herokuapp.com/graph?username=MikasaEureka&theme=xcode&bg_color=FF000000&hide_border=true" /-->
 </div>
 
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+# 🎯 [𝙼𝚎𝚝𝚛𝚒𝚌𝚜](https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
 
-<div align="top">
-<table align="right" width="60%">
-<tr>
-<th align="left" width="20%">
-<!-- plugin metrics --><img src="plugin_metrics.svg" alt="plugin metrics" width="30%"/>
-</th>
-</tr>
-<tr>
-<th align="right" width="20%">
+<div>
+<img src="plugin_metrics.svg" alt="plugin metrics" align="left" width="40%"/>
 
-<!-- wakatime 统计 -->
+<div align="left" width="40%">
+<!-- wakatime 统计 -->  
+  
+[**Waka Time**](https://github.com/anmol098/waka-readme-stats) 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -178,15 +173,12 @@ Windows                  0 secs              ░░░░░░░░░░░�
 
  Last Updated on 24/07/2022 00:58:18 UTC
 <!--END_SECTION:waka-->
-
-</th>
-</tr>
-</table>
+</div>
 </div>
 
 <!-- Gif -->
-<div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
+<div align="center" width="55%">
+  <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="css">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" title="vscode">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50" title="python">
@@ -194,5 +186,5 @@ Windows                  0 secs              ░░░░░░░░░░░�
   <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="50" title="sublime">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" title="node">
-  <img width="80%" src="image/202110311924844.png" />
+  <img width="55%" src="image/202110311924844.png" />
 </div>
