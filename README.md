@@ -7,10 +7,10 @@
 </h1>
 
 <div align="center" float="center" >
+  <!-- 贪吃蛇代码贡献图 -->
+  <img width="60%" src="contribution-snake/github-contribution-grid-snake.svg" />
   <!-- 敲代码的图片 -->
   <img width="30%" src="image/202108300019556.gif"/>
-  <!-- 贪吃蛇代码贡献图 -->
-  <img width="60%" src="contribution-snake/github-contribution-grid-snake.svg" /></div>
 </div>
 <br>  
 
@@ -94,9 +94,9 @@ https://github.com/Platane/snk
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img width="150" src="image/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MikasaEureka&theme=dark&hide_border=true" />
-  <img width="150" src="image/202108300312623.png" />
+  <img width="20%" src="image/202108300310676.png" />
+  <img width="40%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MikasaEureka&theme=dark&hide_border=true" />
+  <img width="20%" src="image/202108300312623.png" />
 </div>
 <br>
 
@@ -108,9 +108,9 @@ https://github.com/Platane/snk
 <br>
 
 <!-- GitHub数据统计 -->
-<div align="left">
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=MikasaEureka&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikasaEureka&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MikasaEureka&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikasaEureka&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
 
