@@ -47,7 +47,7 @@ jobs:
           plugin_achievements_threshold: C
           
           # 📰 Recent activity 最近活动
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 3
@@ -55,10 +55,10 @@ jobs:
           plugin_activity_visibility: all
           
           # 🎟️ Follow-up of issues and pull requests
-          plugin_followup: yes
+          plugin_followup: no
           plugin_followup_sections: repositories
-          plugin_introduction: yes
-          plugin_introduction_title: yes
+          plugin_introduction: no
+          plugin_introduction_title: no
           
           # 📅 Isometric commit calendar 日历图
           plugin_isocalendar: yes
@@ -92,7 +92,7 @@ jobs:
           plugin_habits_trim: yes                                   # Trim unused hours on daily chart
           
           # 🧑‍🤝‍🧑 People plugin 关注与被关注
-          plugin_people: yes
+          plugin_people: no
           plugin_people_types: followers, following                 # Display followers and "thanks" sections
           plugin_people_limit: 150                                   # Limit to 28 entries per section
           plugin_people_size: 36                                    # Size in pixels of displayed avatars
@@ -106,7 +106,7 @@ jobs:
           plugin_projects_limit: 5
          
          # 🌟 Recently starred repositories
-          plugin_stars: yes
+          plugin_stars: no
           plugin_stars_limit: 5   # Limit to 5 entries
          
          # 🎭 Comment reactions (评论反馈)
