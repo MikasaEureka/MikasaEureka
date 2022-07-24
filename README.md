@@ -174,9 +174,6 @@ Windows                  0 secs              ░░░░░░░░░░░�
 
  Last Updated on 24/07/2022 00:58:18 UTC
 <!--END_SECTION:waka-->
-</div>
-</div>
-
 <!-- Gif -->
 <div align="center" width="55%">
   <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
@@ -189,3 +186,7 @@ Windows                  0 secs              ░░░░░░░░░░░�
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" title="node">
   <img width="55%" src="image/202110311924844.png" />
 </div>
+</div>
+</div>
+
+
