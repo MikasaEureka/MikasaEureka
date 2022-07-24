@@ -125,13 +125,17 @@ https://github.com/Platane/snk
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
 <div align="top">
-  <!-- wakatime 统计 -->
+<table align="right" width="60%">
+<tr>
+<th align="left" width="20%">
+<!-- plugin metrics --><img src="plugin_metrics.svg" alt="plugin metrics" width="30%"/>
+</th>
+</tr>
+<tr>
+<th align="right" width="20%">
 
-  <table align="right" width="20%">
-  <tr>
-  <td>
-        
-  <!--START_SECTION:waka-->
+<!-- wakatime 统计 -->
+<!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
 ```text
@@ -174,15 +178,10 @@ Windows                  0 secs              ░░░░░░░░░░░�
 
  Last Updated on 24/07/2022 00:58:18 UTC
 <!--END_SECTION:waka-->
-  </td>
-  </tr>
-  </table>
-  
-  <!-- plugin metrics -->
-  <div align="left">
-    <img src="plugin_metrics.svg" alt="plugin metrics" width="30%"/>
-  </div>
-  
+
+</th>
+</tr>
+</table>
 </div>
 
 <!-- Gif -->
