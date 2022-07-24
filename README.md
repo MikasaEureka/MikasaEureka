@@ -35,7 +35,7 @@
 
 ----
 
-> 搭配GitHub acitons更新参考   
+> 搭配GitHub acitons更新profile参考   
 https://github.com/yoshi389111/github-profile-3d-contrib  
 https://github.com/Platane/snk 
 ----
@@ -65,6 +65,7 @@ https://github.com/Platane/snk
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-%23276DC3.svg?style=flat-square&logo=Matlab&logoColor=white)
 
 🧠 计划学习:
 
@@ -74,7 +75,7 @@ https://github.com/Platane/snk
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang?style=style=flat-square&logo=Golang&logoColor=white)
+![Go](https://img.shields.io/badge/Go-blue?style=style=flat-square&logo=Go&logoColor=white)
 
 🧰 常用的工具:
 
