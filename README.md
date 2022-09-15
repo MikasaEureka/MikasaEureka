@@ -132,47 +132,8 @@ https://github.com/Platane/snk
   
 [**Waka Time**](https://github.com/anmol098/waka-readme-stats) 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning    57 commits     ██████░░░░░░░░░░░░░░░░░░░   25.45% 
-🌆 Daytime    77 commits     ████████░░░░░░░░░░░░░░░░░   34.38% 
-🌃 Evening    85 commits     █████████░░░░░░░░░░░░░░░░   37.95% 
-🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
-Tuesday      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
-Wednesday    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.02% 
-Thursday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.48% 
-Friday       54 commits     ██████░░░░░░░░░░░░░░░░░░░   24.11% 
-Saturday     63 commits     ███████░░░░░░░░░░░░░░░░░░   28.12% 
-Sunday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.73%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 14/09/2022 01:00:09 UTC
+ Last Updated on 15/09/2022 01:04:31 UTC
 <!--END_SECTION:waka-->
 <!-- Gif -->
 <div align="center" width="55%">
